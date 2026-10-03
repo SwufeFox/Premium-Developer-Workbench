@@ -10,7 +10,8 @@
 |---|---|
 | [Premium-Developer-Workbench-Reference-Atlas.md](Premium-Developer-Workbench-Reference-Atlas.md) | 40 个具体网站、产品工作区、设计系统和获奖作品。每项都注明可借鉴的决策与迁移边界。 |
 | [Claude-Adjacent-Developer-Workbench-Design-System.md](Claude-Adjacent-Developer-Workbench-Design-System.md) | 视觉方向、初始颜色 Token、字体职责、桌面工作区布局、组件、状态与动效规则。 |
-| [Luna-Developer-Workbench-Redesign-Brief.md](Luna-Developer-Workbench-Redesign-Brief.md) | 可以直接交给 Luna 的执行任务书，包含项目审查、参考选择、实施顺序和验收要求。 |
+| [Luna-Developer-Workbench-Redesign-Brief.md](Luna-Developer-Workbench-Redesign-Brief.md) | 面向本项目的一次性执行任务书，包含审查、参考选择、实施顺序和验收要求。 |
+| [Premium-UI-Design-Prompt-Pack.md](Premium-UI-Design-Prompt-Pack.md) | 可复用的 UI 改版提示词包：项目审查、设计提案、实施、视觉收敛、验收及质量自评。 |
 
 ## 推荐阅读与使用顺序
 
